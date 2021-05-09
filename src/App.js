@@ -16,7 +16,7 @@ function App() {
         <SearchEngine />
       </main>
       </div>
-      <p className="Name">Coded by <a href="https://github.com/ingakoz" target="_blank" rel="noreferrer"> ingakoz</a> </p>
+     
     </div>
   );
 }
