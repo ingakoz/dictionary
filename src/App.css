@@ -3,4 +3,113 @@
 }
 .App{
   text-align: center;
+  font-family: 'Oxygen', sans-serif;
+  max-width: 960px;
+  margin: 0 auto;
 }
+li{
+  list-style-type: none;
+ 
+  padding-right: 10px;
+  
+}
+.Dictionary form{
+
+  margin: 50px auto;
+  width: 300px;
+  text-align: center;
+  
+}
+.Section1 h2{
+  padding-bottom: 30px;
+
+}
+.PhoneticWord{
+  padding-right: 20px;
+  padding-top: 10px;
+  font-size: 20px;
+  
+}
+.Section1{
+  border: 2px solid white;
+  background-color: white;
+  box-shadow: 3px 3px 15px rgb(223, 219, 219);
+
+  max-width: 900px;
+  padding: 30px;
+  margin: 50px auto;
+}
+.Meaning{
+  border: 2px solid white;
+  background-color: white;
+  box-shadow: 3px 3px 15px rgb(223, 219, 219);
+
+  max-width: 900px;
+  padding: 30px;
+  margin: 50px auto;
+}
+.Meaning p{
+  padding: 10px;
+}
+ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+ 
+}
+.Defined{
+  padding: 30px;
+}
+h6{
+  padding: 20px;
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bolder;
+}
+h1{
+  font-family: 'Oxygen', sans-serif;
+  font-size: 60px;
+}
+h3{
+  text-decoration: underline;
+}
+h5{
+  font-family: 'Gloria Hallelujah', cursive;
+  transform: rotate(-10deg);
+  text-align: right;
+  position: relative;
+  left: -50px;
+  bottom: -35px;
+ 
+}
+.heading{
+  border: 3px solid white;
+  box-shadow: 3px 3px 15px rgb(223, 219, 219);
+  padding: 20px;
+  max-width: 500px;
+  margin: 20px auto;
+  background-color: white;
+ }
+ a{
+   text-decoration: none;
+   color: black;
+ }
+ a:hover{
+   color:rgb(241, 204, 229);
+ }
+
+ body{
+  background-color: rgb(253, 237, 250);
+ }
+
+ .Phonetic{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+ }
+ .Photos{
+   padding-bottom: 30px;
+ }
+ .Photos img{
+   padding: 10px;
+ }

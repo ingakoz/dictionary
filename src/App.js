@@ -9,6 +9,10 @@ function App() {
         
       </header>
       <main>
+        <div className="heading">
+        <h1>Lexicon</h1>
+        <h5><a href="https://github.com/ingakoz" target="_blank" rel="noreferrer"> by IngaKoz </a></h5>
+        </div>
         <SearchEngine />
       </main>
       </div>
