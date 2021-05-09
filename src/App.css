@@ -121,5 +121,6 @@ h5{
  h7{
    font-size: 16px;
  }
- 
- 
+ .Synonyms{
+   max-width: 900px;
+ }
